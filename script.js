@@ -1,7 +1,5 @@
-let name = "Onojakaromah Igho Andrew"
+let myName = "Onojakaromah Igho Andrew"
 let height = "1.85m"
 let country = "Nigeria"
 
-console.log(name);
-console.log(height);
-console.log(country);
+document.write ("Name: Onojakaromah Igho Andrew <br> Height: 1.85 <br> Country: Nigeria")
